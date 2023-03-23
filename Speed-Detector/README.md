@@ -6,11 +6,13 @@ Based on the data input,the program prints 'OK' if its below the speed limit(70)
 
 
 ``HOW TO RUN IT ON YOUR MACHINE.
+
     -Open your terminal
     -clone on your local machine
-    git@github.com:hamzaguyo725/code-wk-1-challenge.git
+    git@github.com:hamzaguyo725/wk-1-code-challenge.git
     -cd into the repository
 
 
 ``AUTHOR NAME.
+
    HAMZA.M
